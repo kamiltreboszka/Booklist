@@ -1,4 +1,4 @@
-/// Kamil Treboszka
+/// Created by Kamil Treboszka
 
 #include <iostream>
 #include <stdlib.h>
